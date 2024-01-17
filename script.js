@@ -5,7 +5,7 @@
 
 
 /**
- *    React.createElement("Tag", "Attributes", "Childrens")
+ *    React.createElement("Tag", "Attributes", "Children")
  * 
  */
 const parentRoot = ReactDOM.createRoot(document.getElementById("parent2"));

@@ -1,0 +1,19 @@
+{
+  "name": "basic-react",
+  "version": "1.0.0",
+  "description": "basic description and practice",
+  "main": "script.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohanRao22/React-Practice.git"
+  },
+  "author": "Mohan Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohanRao22/React-Practice/issues"
+  },
+  "homepage": "https://github.com/MohanRao22/React-Practice#readme"
+}
