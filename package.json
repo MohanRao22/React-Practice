@@ -4,6 +4,8 @@
   "description": "basic description and practice",
   "main": "script.js",
   "scripts": {
+    "start" : "parcel index.html",
+    "Pbulid" : "parcel build index.html",
     "test": "Jest"
   },
   "repository": {
